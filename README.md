@@ -5,8 +5,11 @@
 - 🌱 I’m currently learning ML and using ML in Hardware
 
 - 📫 How to reach me 
+
       E-mail:- rakshitsubroto123@gmail.com
+
       Phone:- 6204973061
+
       LinkedIn:- https://www.linkedin.com/in/subroto-rakshit-1380aa201
 
 <!---
