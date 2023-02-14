@@ -1,5 +1,5 @@
+<h1 title="hehehe"> Hi, <img src='https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif' alt='hi' width=50px/>, I am Subroto Rakshit </h1>
 # 💫 About Me:
-Hi, I am Subroto Rakshit<br>
 <p><img align="right" src="https://github.com/rakshitsubroto123/rakshitsubroto123/blob/circleci-project-setup/giphy.gif" width="500" height="320"/></p>
 👯 I’m currently a CSE Undergrad(3rd year) student at Institute of Engineering and Management<br>🔭  My interest is in Machine Learning, Deep Learning, Web Development, App Development, and Competitive Coding<br>🌱  I’m currently working on a research project on Pancreatic Cancer Detection using Deep Learning(Unet)<br>🤝 I’m looking to collaborate with other developers on awesome new and innovative projects.<br>💬 Ask me about anything, I love to answer and try my best to solve any problem<br>⚡ In my free time, I solve problems on GeeksforGeeks, LeetCode, and InterviewBits and read tech articles.<br> <br> How to reach me: Gmail: rakshitsubroto123@gmail.com
 
